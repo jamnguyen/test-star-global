@@ -2,7 +2,7 @@
   "name": "star-global",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/test/start-global/",
+  "homepage": "/test/star-global/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
